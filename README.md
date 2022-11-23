@@ -1,6 +1,6 @@
 # Cleaning up local GitHub repo
 
-````ps
+````posh
 gc --aggressive --prune=now # shrinks files
 ````
 
