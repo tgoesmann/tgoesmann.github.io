@@ -1,3 +1,7 @@
 remote_theme: pages-themes/modernist@v0.2.0
 
-# tgoesmann.github.io
+# Cleaning up local GitHub repo
+
+````powershell
+gc --aggressive --prune=now
+````
