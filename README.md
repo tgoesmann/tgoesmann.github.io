@@ -6,5 +6,8 @@ gc --aggressive --prune=now # shrinks files
 
 
 ````winbatch
-git checkout --orphan temp_branch REM erstellt neuen Branch ohne Vorgänger
+REM erstellt neuen Branch ohne Vorgänger
+git checkout --orphan temp_branch 
+
+REM 
 ````
